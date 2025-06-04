@@ -37,7 +37,7 @@ tensorflow (specifically tensorflow.keras)
 
 #
 
-# Dataset
+# Dataset:
 
 The sample data is provided in the training data and the testing data folders. The full dataset can be provided on request
 
