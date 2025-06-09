@@ -52,3 +52,8 @@ Accuracy using Contour Detection: 91.17%
 Accuracy using Masking: 82.67%
 
 Accuracy using Naive approach: 96.25%
+
+#
+
+If you are using the above code, then please cite this manuscript:
+Dawar, A., Garg, D., Kakkar, P., Ragothaman, H., Bhardwaj, A., Rana, PS. (2025). Enhanced Gender Classification of Blackbucks via a Novel Convolutional Neural Network Using Pugmark Analysis, The Visual Computer, Springer.
